@@ -1,0 +1,51 @@
+head{
+    text-align:center ;
+
+}
+body{
+    text-align: center;
+    text-size-adjust: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    font-size: large;
+
+}
+h1{
+    text-align: center;
+    color: gray;
+
+}
+h1:hover{
+    color: blueviolet;
+}
+
+
+#skills{
+    border: 2px solid black;
+    border-color: bisque;
+    border-radius: 2px;
+    text-align: center;
+    padding: 10px;
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    border-width: 2px;
+    border-collapse: collapse;
+}
+#skills:hover{
+    border-color:blue;
+}
+#skills2{
+    border-radius: 10px;
+    border-color: black;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    height: 50%;
+    width: 50%;
+    padding-top: 20px;
+
+}
+#skills2:hover{
+    border-color: red;
+}
